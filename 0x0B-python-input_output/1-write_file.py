@@ -11,4 +11,6 @@ def write_file(filename="", text=""):
         for c in text:
             filen.write(c)
             count += 1
+
+
     return (count)
