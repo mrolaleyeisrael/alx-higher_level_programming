@@ -1,14 +1,15 @@
 #!/usr/bin/python3
 """
-Won so wipe this is a JSON script
+A JSON script
 """
 
 
 import json
 
+
 def to_json_string(my_obj):
     """
-    A function like that
+    at of an object
     """
     new = json.dumps(my_obj)
     return (new)
