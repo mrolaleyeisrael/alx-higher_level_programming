@@ -1,0 +1,1 @@
+These project is about ORM (Object-relational mapping) of Python using SQLAlchemy.
