@@ -1,1 +1,2 @@
-These project is about ORM (Object-relational mapping) of Python using SQLAlchemy.
+# 0x0F. Python - Object-relational mapping
+These projects are about ORM (Object-relational mapping) of Python using SQLAlchemy.
